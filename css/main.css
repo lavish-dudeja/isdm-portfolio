@@ -822,7 +822,9 @@ html.fp-enabled,
 	background-image: url(../img/0039-luxury-italian-design-home-immaginario.jpg);
 }
 
-
+.section-image-06 {
+	background-image: url();
+}
 
 .slide-box-text-outer {
 	position: absolute;
@@ -1815,11 +1817,15 @@ address a:hover {
 }
 
 .project-cover-image-la-fucina {
-	background-image: url(../img/la-fucina/0039-luxury-italian-design-project-la-fucina-01.jpg);
+	background-image: url(../img/download.jpg);
 }
 
 .project-cover-image-atelier {
 	background-image: url(../img/0039-luxury-italian-design-home-immaginario.jpg);
+}
+
+.project-cover-image-farmer {
+	background-image: url(../img/farmer_banner.jpg);
 }
 
 @media screen and (max-width: 1023px) {
@@ -1900,11 +1906,11 @@ address a:hover {
 }
 
 .project-section h6 {
-	font-size: 38px;
+	font-size: 30px;
 	font-weight: 700;
 	opacity: 0.5;
-	margin: 15px auto 25px auto;
-	max-width: 650px;
+	
+	
 	line-height: 40px;
 }
 
@@ -2246,6 +2252,10 @@ address a:hover {
 	background: url(../img/ice.jpg) no-repeat center center;
 	background-size: cover;
 }
+.reveal-block-50-image-atelier-01-project {
+	background: url(../img/First-draft.png) no-repeat center center;
+
+}
 
 
 .reveal-block-50-image-mosca-02 {
@@ -2283,6 +2293,11 @@ address a:hover {
 .reveal-block-50-image-atelier-02 {
 	background: url(../img/design.jpg) no-repeat center center;
 	
+}
+
+.reveal-block-50-image-atelier-02-project {
+	background: url(../img/ST-DT.png) no-repeat center center;
+
 }
 
 
@@ -2866,7 +2881,7 @@ address a:hover {
    Project Catalogue Request
    ========================================================================== */
 .project-section-catalogue {
-		width: 500px;
+		
 		float: none;
 		padding: 30px 80px 50px 80px;
 		margin: 0 auto;
@@ -4491,13 +4506,4 @@ a[href^="https://maps.google.com/maps"]{display:none !important}
 	#map-container {
 		display: none;
 	}
-}
-.three-design
-{
-    background-image: url(../img/Slide1.PNG);
-    width: 900px;
-    height: 600px;
-    background-repeat: no-repeat;
-    margin-left: auto;
-    margin-right: auto;
 }
