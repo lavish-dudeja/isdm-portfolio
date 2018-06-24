@@ -1793,7 +1793,7 @@ address a:hover {
 }
 
 .project-cover-image-cannes {
-	background-image: url(../img/projects/cannes/0039-luxury-italian-design-project-cannes-01.jpg);
+	background-image: url(../img/0039-luxury-italian-design-home-immaginario.jpg);
 }
 
 .project-cover-image-contatti {
@@ -1874,7 +1874,8 @@ address a:hover {
 
 .project-section-beige {
 	background: #ad9f8c;
-	padding: 150px 0;
+	padding: 50px 0;
+    
 }
 
 .project-section-beige-light {
@@ -2232,7 +2233,7 @@ address a:hover {
 	background-size: cover;
 }
 .reveal-block-50-image-cannes-01 {
-	background: url(../img/projects/cannes/0039-luxury-italian-design-project-cannes-04.jpg) no-repeat center center;
+	background: url(../img/structure.png) no-repeat center center;
 	background-size: cover;
 	background-position: center bottom;
 }
@@ -2273,7 +2274,7 @@ address a:hover {
 	background-position: center bottom;
 }
 .reveal-block-50-image-cannes-02 {
-	background: url(../img/projects/cannes/0039-luxury-italian-design-project-cannes-03.jpg) no-repeat center center;
+	background: url(../img/mintzberg_2b.png) no-repeat center center;
 	background-size: cover;
 	background-position: center 60%;
 }
@@ -2314,7 +2315,7 @@ address a:hover {
 	background-size: cover;
 }
 .reveal-block-50-image-cannes-03 {
-	background: url(../img/projects/cannes/0039-luxury-italian-design-project-cannes-10.jpg) no-repeat center center;
+	background: url(../img/Learnings.png) no-repeat center center;
 	background-size: cover;
 	background-position: center top;
 }
@@ -2483,7 +2484,7 @@ address a:hover {
 	width: 1100px;
 	float: none;
 	margin: 0 auto;
-	min-height: 574px;
+	
 }
 
 .project-section-architect .reveal-block-50-immaginario {
@@ -2647,7 +2648,7 @@ address a:hover {
    ========================================================================== */
 .project-slider {
 	background: #281e1d;
-	padding: 150px 0;
+	padding: 100px 0;
 }
 
 .project-slider-refrigeration {
